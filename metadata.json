@@ -1,0 +1,8 @@
+{
+  "name": "CardioSense",
+  "description": "A smartphone-integrated ECG acquisition and analysis dashboard for two-point sensor devices, featuring real-time visualization and AI-powered health insights.",
+  "requestFramePermissions": [
+    "microphone",
+    "bluetooth"
+  ]
+}
