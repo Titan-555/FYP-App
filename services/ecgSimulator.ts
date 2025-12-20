@@ -1,4 +1,4 @@
-import { ECGDataPoint } from '../types';
+import { ECGDataPoint } from '../types.ts';
 
 // Mathematical simulation of a PQRST complex using Gaussian functions
 export const generateECGSignal = (
